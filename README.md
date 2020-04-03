@@ -1,2 +1,2 @@
 # whatsapp-web
-send message for one person 
+send message using selinum 
